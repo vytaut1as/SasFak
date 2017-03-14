@@ -1,0 +1,6 @@
+# ignoruoti class
+# Compiled source #
+###################
+*.class
+*.pyo
+*.pyc
